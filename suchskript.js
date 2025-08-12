@@ -1,3 +1,7 @@
+console.log('Skript läuft');
+
+document.getElementById('test').innerText = 'Suchskript wurde geladen!';
+
 <div style="font-family: sans-serif; display: flex; justify-content: flex-end; margin-bottom: 20px;">
     <input type="text" id="buchSuche" placeholder="Suche" style="width: 50%; padding: 8px; font-size: 16px;" />
 </div>
